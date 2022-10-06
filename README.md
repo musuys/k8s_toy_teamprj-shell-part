@@ -1,0 +1,1 @@
+# kubernetes_auto_shell
